@@ -76,7 +76,7 @@ body {
 .card {
     height: 100px;
     width: 91px;
-    background-color: rgb(50, 119, 248, 0.651);
+    background-color: rgba(102, 84, 84, 0.651);
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
