@@ -7,7 +7,7 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-image:url("fondo doom.png");
+    background-image:url("fondo 2 doom.png");
     display: flex;
 }
 .board{
